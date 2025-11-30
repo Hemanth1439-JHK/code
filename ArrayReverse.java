@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class ArrayReverse
 {
     public static void main(String[] args)
@@ -32,4 +32,5 @@ public class ArrayReverse
             System.out.print(arr[j]+" ");
         }
     }
+
 }
